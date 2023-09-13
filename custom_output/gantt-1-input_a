@@ -1,0 +1,10 @@
+  2~  3: T0, CPU
+  3~  4: T0, CPU
+  4~  5: T0, CPU
+  5~  6: T0, CPU
+  6~  7: T0, CPU
+   ~ 14: T0, Return from IO
+ 14~ 15: T0, CPU
+ 15~ 16: T0, CPU
+ 16~ 17: T0, CPU
+   ~ 25: T0, Return from IO

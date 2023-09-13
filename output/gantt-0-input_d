@@ -1,0 +1,15 @@
+ 31~ 32: T1, CPU
+ 32~ 33: T1, CPU
+   ~ 33: T1, Return from V5
+ 33~ 34: T0, CPU
+ 34~ 35: T0, CPU
+   ~ 35: T0, Return from V5
+ 35~ 36: T1, CPU
+ 36~ 37: T1, CPU
+ 37~ 38: T1, CPU
+ 38~ 39: T2, CPU
+ 39~ 40: T2, CPU
+ 40~ 41: T2, CPU
+ 41~ 42: T0, CPU
+ 42~ 43: T0, CPU
+ 43~ 44: T0, CPU

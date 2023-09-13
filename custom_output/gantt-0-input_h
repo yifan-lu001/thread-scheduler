@@ -1,0 +1,13 @@
+  0~  1: T1, CPU
+  1~  2: T1, CPU
+  2~  3: T1, CPU
+ 50~ 51: T0, CPU
+ 51~ 52: T0, CPU
+ 52~ 53: T0, CPU
+   ~ 70: T2, Return from V1
+   ~ 70: T0, Return from P1
+ 70~ 71: T2, CPU
+   ~ 71: T2, Return from V1
+   ~ 71: T1, Return from P1
+   ~ 72: T0, Return from IO
+   ~ 77: T1, Return from IO
